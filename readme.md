@@ -1,0 +1,1 @@
+AwesomeShop - Um e-commerce em arquitetura de microsserviços
